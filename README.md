@@ -8,11 +8,10 @@
 
 ## 🌐 Connect with Me:
 Stay updated with my latest posts and for more information, also follow me on LinkedIn and X(Twitter). <br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sonu1kumar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/official_Sonukm)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonu.km.tech@gmail.com) 
 
-## 💰 You can Support Me Here 🤝
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sonukm) 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sonukmtech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
