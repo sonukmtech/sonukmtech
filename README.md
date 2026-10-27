@@ -4,11 +4,12 @@
 🌱 I’m currently learning: Cybersecurity <br>
 💬 Ask me about: Collaboration, Tech Support <br>
 📫 Reach me at: sonu.km.tech@gmail.com <br>
-⚡ Fun fact: I love code and code loves to hide bugs from me <br>
+⚡ Fun fact: I love code, and code loves to hide bugs from me <br>
 
 ## 🌐 Connect with Me:
 Stay updated with my latest posts and for more information, also follow me on LinkedIn and X(Twitter). <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sonu1kumar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/official_Sonukm) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonu.km.tech@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sonu1kumar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/official_Sonukm)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonu.km.tech@gmail.com) 
 
 ## 💰 You can Support Me Here 🤝
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sonukm) 
@@ -19,7 +20,19 @@ Stay updated with my latest posts and for more information, also follow me on Li
 ![](https://camo.githubusercontent.com/154e74646ac17b0286e754c538b39be2dfc5f5bf06dcd97aac1e143c64b5f8dc/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667)
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 🔐 Skills & Tools
+![SIEM](https://img.shields.io/badge/SIEM-Elastic%20Security-orange)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red)
+![Python](https://img.shields.io/badge/Python-blue)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux)
+![Threat Modeling](https://img.shields.io/badge/STRIDE-Threat%20Modeling-green)
+![SQL](https://img.shields.io/badge/SQL-blue)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=sonukmtech&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -33,5 +46,5 @@ Stay updated with my latest posts and for more information, also follow me on Li
 ![](https://github-contributor-stats.vercel.app/api?username=sonukmtech&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![Profile Views](https://komarev.com/ghpvc/?username=sonukmtech&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![](https://komarev.com/ghpvc/?username=sonukmtech)
